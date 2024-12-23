@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/@nadimmo58159885" target="blank"><img src="https://img.shields.io/twitter/follow/@nadimmo58159885?logo=twitter&style=for-the-badge" alt="@nadimmo58159885" /></a> </p>
 
-- 🌱 I’m currently expanding my skills in **MERN Stack Web Development**
+- I’m currently expanding my skills in **MERN Stack Web Development**
 
 - You can explore all of my projects ae at [https://nadim-mostofa.vercel.app](https://nadim-mostofa.vercel.app)
 
-- 💬 Feel free to ask me anything about **React.js or JavaScript**
+- Feel free to ask me anything about **React.js or JavaScript**
 
-- 📫 You can reach me via email at **nadimmostafa334@gmail.com**
+- You can reach me via email at **nadimmostafa334@gmail.com**
 
-- 📝 To learn more about my professional experience, visit [https://docs.google.com/document/d/1ng98B1qSjpzntnVEmlDfk2oKD3jCX46dS89SuNcCjLc/edit?tab=t.0](https://docs.google.com/document/d/1ng98B1qSjpzntnVEmlDfk2oKD3jCX46dS89SuNcCjLc/edit?tab=t.0)
+- To learn more about my professional experience, visit [https://docs.google.com/document/d/1ng98B1qSjpzntnVEmlDfk2oKD3jCX46dS89SuNcCjLc/edit?tab=t.0](https://docs.google.com/document/d/1ng98B1qSjpzntnVEmlDfk2oKD3jCX46dS89SuNcCjLc/edit?tab=t.0)
 
 
 <h3 align="left">Connect with me:</h3>
